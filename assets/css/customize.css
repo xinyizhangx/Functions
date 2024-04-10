@@ -24,7 +24,7 @@ body {
   src: url(assets/fonts/Tomato\ Ketchup_Bold.otf);
 }
 body {
-  background: url(/assets/img/halfbg.png) top center/100% 50% no-repeat;
+  background: url(assets/img/halfbg.png) top center/100% 50% no-repeat;
 }
 :root {
   --width-1728: 1728px;
