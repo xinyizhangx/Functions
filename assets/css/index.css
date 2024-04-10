@@ -1,0 +1,176 @@
+html,
+body {
+  height: 100%;
+}
+
+@font-face {
+  font-family: "Misto";
+  src: url(/assets/fonts/Misto.ttf);
+}
+@font-face {
+  font-family: "CrimsonPro-Regular";
+  src: url(/assets/fonts/CrimsonPro-Regular.ttf);
+}
+@font-face {
+  font-family: "CrimsonPro-Bold";
+  src: url(/assets/fonts/CrimsonPro-Bold.ttf);
+}
+@font-face {
+  font-family: "TomatoKetchup-Regular";
+  src: url(/assets/fonts/Tomato\ Ketchup.otf);
+}
+@font-face {
+  font-family: "TomatoKetchup-Bold";
+  src: url(/assets/fonts/Tomato\ Ketchup_Bold.otf);
+}
+body {
+  background: url(/assets/img/header.png) no-repeat center center/cover;
+}
+:root {
+  --width-1728: 1728px;
+  --width-1280: 1280px;
+  --width-834: 834px;
+  --width-430: 430px;
+  --width-375: 375px;
+  --font-size-20: 20px;
+  --font-size-18: 18px;
+  --font-size-16: 16px;
+  --font-size-14: 14px;
+  --font-size-12: 12px;
+  --color-white: #fff;
+  --color-black: #000;
+  --color-dark: #a9965f;
+  --color-red: #af0a08;
+  --space-10: 10px;
+  --font-weight: 100;
+}
+
+.flex {
+  font-family: "TomatoKetchup-Regular";
+  font-size: calc(var(--font-size-20) * 2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+main {
+  height: 100%;
+}
+main .title {
+  position: absolute;
+  top: calc(var(--space-10) * 3);
+  left: calc(var(--space-10) * 3);
+  width: calc(var(--space-10) * 22);
+  height: calc(var(--space-10) * 22);
+  font-size: calc(var(--font-size-20) * 1.5);
+  flex-direction: column;
+  border-radius: 50%;
+  background-color: var(--color-red);
+}
+main .title h1 {
+  font-family: "Misto";
+  color: #fff;
+}
+main .title h1:first-child {
+  font-style: italic;
+}
+main .title img {
+  position: absolute;
+  width: 100%;
+  left: calc(var(--space-10) * 14);
+  top: calc(var(--space-10) * 5);
+}
+header {
+  display: flex;
+  justify-content: flex-end;
+  height: calc(var(--space-10) * 30);
+  position: relative;
+  height: 100%;
+}
+header .slogan {
+  position: absolute;
+  bottom: 0;
+  right: calc(var(--space-10) * 20);
+  color: var(--color-white);
+  font-family: "CrimsonPro-Bold";
+  font-size: calc(var(--font-size-20) * 4.6);
+}
+nav {
+  padding-top: calc(var(--space-10) * 3);
+}
+nav a {
+  padding: calc(var(--space-10) * 4) 0;
+  color: var(--color-white);
+  margin-right: calc(var(--space-10) * 4);
+  font-size: calc(var(--font-size-20) * 1.8);
+  font-family: "TomatoKetchup-Regular";
+}
+
+.story {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+}
+.story img {
+  width: 35%;
+}
+.story pre {
+  color: var(--color-black);
+  font-size: calc(var(--font-size-20) * 2);
+  font-family: "CrimsonPro-Regular";
+  margin-right: calc(var(--font-size-20) * 30);
+}
+
+.data {
+  height: 100%;
+  padding: 0 calc(var(--space-10) * 2);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.data .item {
+  width: 24%;
+  height: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.data .item img {
+  width: 100%;
+  height: 70%;
+  border-radius: calc(var(--space-10));
+}
+.data .item .nameC {
+  color: var(--color-red);
+  font-size: var(--font-size-16);
+  margin: calc(var(--space-10)) 0;
+  font-weight: calc(var(--font-weight) * 6);
+  font-family: "TomatoKetchup-Regular";
+}
+.data .item .nameE {
+  color: var(--color-black);
+  font-size: var(--font-size-16);
+  font-weight: calc(var(--font-weight) * 6);
+  font-family: "TomatoKetchup-Regular";
+}
+
+footer {
+  height: 100%;
+}
+.explore {
+  all: unset;
+  font-family: "TomatoKetchup-Regular";
+  font-size: calc(var(--font-size-20) * 2);
+  width: calc(var(--space-10) * 25);
+  height: calc(var(--space-10) * 6);
+  background-color: var(--color-red);
+  color: var(--color-white);
+  border-radius: calc(var(--space-10) * 3.8);
+  text-align: center;
+  line-height: calc(var(--space-10) * 6);
+  margin-top: calc(var(--space-10) * 15);
+  cursor: pointer;
+}
