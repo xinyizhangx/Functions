@@ -88,7 +88,7 @@ window.addEventListener("DOMContentLoaded", () => {
     renderItem(data);
   };
 
-  fetch("/assets/YumYue.json")
+  fetch("assets/YumYue.json")
     .then((res) => res.json())
     .then((res) => {
       console.log(res);
