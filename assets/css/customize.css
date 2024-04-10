@@ -5,27 +5,23 @@ body {
 
 @font-face {
   font-family: "Misto";
-  src: url(/assets/fonts/Misto.ttf);
+  src: url(assets/fonts/Misto.ttf);
 }
 @font-face {
   font-family: "CrimsonPro-Regular";
-  src: url(/assets/fonts/CrimsonPro-Regular.ttf);
+  src: url(assets/fonts/CrimsonPro-Regular.ttf);
 }
 @font-face {
   font-family: "CrimsonPro-Bold";
-  src: url(/assets/fonts/CrimsonPro-Bold.ttf);
-}
-@font-face {
-  font-family: "CrimsonPro-SemiBold";
-  src: url(/assets/fonts/CrimsonPro-SemiBold.ttf);
+  src: url(assets/fonts/CrimsonPro-Bold.ttf);
 }
 @font-face {
   font-family: "TomatoKetchup-Regular";
-  src: url(/assets/fonts/Tomato\ Ketchup.otf);
+  src: url(assets/fonts/Tomato\ Ketchup.otf);
 }
 @font-face {
   font-family: "TomatoKetchup-Bold";
-  src: url(/assets/fonts/Tomato\ Ketchup_Bold.otf);
+  src: url(assets/fonts/Tomato\ Ketchup_Bold.otf);
 }
 body {
   background: url(/assets/img/halfbg.png) top center/100% 50% no-repeat;
