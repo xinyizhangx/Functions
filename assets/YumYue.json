@@ -1,0 +1,353 @@
+[
+    {
+        "NameC": "云吞",
+        "NameE": "Wontons",
+        "Meals": "Breakfast",
+        "Festival": "Chinese New Year",
+        "Images": "https://cdn.sanity.io/images/2r0kdewr/production/f9e88fe21031b45b71f3642cefa0c8683d394595-1000x563.jpg",
+        "Recipe": "(Main Ingredients) 1.1 lb lotus root, 1 tsp salt, 1 tbsp chicken bouillon, 20 g ginger, 4 garlic cloves, 3.5 tbsp adzuki beans, 2.5 tbsp peanuts; (Prep) Slice lotus root, crush garlic and ginger; (Cooking) Boil stock, add lotus root, peanuts, beans, season, and simmer for 1 hour.",
+        "Steps": "1.Evenly slice the lotus root. 2.Crush garlic cloves and ginger. 3.Bring stock to a boil in a large pot. 4.Add lotus root slices, adzuki beans, and peanuts to the pot. 5.Season with salt and chicken bouillon. 6.Simmer on low heat for 1 hour. 7.Adjust seasoning if necessary and serve hot."
+    },
+    {
+        "NameC": "皮蛋瘦肉粥",
+        "NameE": "Century Egg & Pork Congee",
+        "Meals": "Breakfast",
+        "Festival": null,
+        "Images": "https://cdn.sanity.io/images/2r0kdewr/production/dcd78dee153c0ee8f89e326a57b68915665b6bed-1000x667.jpg",
+        "Recipe": "(Main Ingredients) 6 oz rice, 8 cups water, 3 century eggs, 0.50 lb pork butt, 1 oz dried scallops, 0.25 oz ginger, cilantro, green onion; (Pork Marinade) 1.5 tsp salt, 0.25 tsp white pepper, 2 tbsp cornstarch, 2 tbsp water, 0.5 tsp baking soda, 1 tsp sesame oil; (Prep) Marinate pork. Soak scallops; (Cooking) Cook rice, water, salt, oil to congee. Add pork, eggs, scallops. Garnish with cilantro, green onion.",
+        "Steps": "1.Marinate pork with salt, white pepper, cornstarch, water, baking soda, and sesame oil. 2. Soak dried scallops. 3. Cook rice with water, salt, and oil until it becomes congee. 4. Add marinated pork, century eggs, and soaked dried scallops to the congee. 5. Garnish with cilantro and green onion before serving."
+    },
+    {
+        "NameC": "葱面",
+        "NameE": "Green onion noodles",
+        "Meals": "Breakfast",
+        "Festival": "Winter Solstice",
+        "Images": "https://cdn.sanity.io/images/2r0kdewr/production/a0a5ca81d88c9cd6c328ab4925789049550d0e5d-1000x563.jpg",
+        "Recipe": "(Main Ingredients) 2 cups green onions, 8 oz noodles, 2 tbsp soy sauce, 1 tbsp sesame oil, 2 tsp sugar, 1 tsp minced garlic, 1/4 cup vegetable oil, 1 tsp salt; (Prep) Chop green onions, mince garlic; (Cooking) Cook noodles, sauté green onions and garlic in vegetable oil until fragrant, mix in soy sauce, sesame oil, sugar, and salt, then toss with noodles and serve.",
+        "Steps": "1.Chop green onions and mince garlic. 2. Cook noodles according to package instructions. 3. Sauté chopped green onions and minced garlic in vegetable oil until fragrant. 4. Mix in soy sauce, sesame oil, sugar, and salt. 5. Toss cooked noodles with the prepared sauce mixture. 6. Serve immediately."
+    },
+    {
+        "NameC": "姜葱面",
+        "NameE": "Ginger Scallion Noodles",
+        "Meals": "Breakfast",
+        "Festival": "Winter Solstice",
+        "Images": "https://cdn.sanity.io/images/2r0kdewr/production/c1e274eeaeecaaf169b7ac26550a7f9edb9607c2-1000x668.jpg",
+        "Recipe": "(Main Ingredients) 8 oz noodles, 1 cup chopped green onions, 2 tbsp minced ginger, 2 tbsp soy sauce, 1 tbsp oyster sauce, 1 tsp sugar, 2 tbsp vegetable oil, 1/2 tsp salt; (Prep) Chop green onions, mince ginger; (Cooking) Cook noodles, sauté ginger and green onions in oil until fragrant, add soy sauce, oyster sauce, sugar, and salt, then toss with noodles and serve.",
+        "Steps": "1.Chop green onions and mince ginger. 2. Cook noodles according to package instructions. 3. Sauté minced ginger and chopped green onions in vegetable oil until fragrant. 4. Add soy sauce, oyster sauce, sugar, and salt to the sautéed ginger and green onions. 5. Toss the cooked noodles with the prepared sauce mixture. 6. Serve immediately."
+    },
+    {
+        "NameC": "蒜蓉菜心",
+        "NameE": "Choy Sum with Garlic",
+        "Meals": "Lunch & Dinner",
+        "Festival": null,
+        "Images": "https://i0.wp.com/www.wokandkin.com/wp-content/uploads/2021/06/Chinese-Brocolli-with-Oyster-Sauce-Close-Up-saved-for-web-1200px.png?w=1200&ssl=1",
+        "Recipe": "(Main Ingredients) 1 lb stem lettuce (菜心), 4 cloves garlic, 2 tbsp oyster sauce, 1 tsp soy sauce, 1 tsp sugar, 2 tbsp water, 1 tbsp vegetable oil; (Prep) Mince garlic, wash and trim stem lettuce; (Cooking) Blanch stem lettuce in boiling water, heat oil and sauté garlic until fragrant, add oyster sauce, soy sauce, sugar, and water, pour sauce over stem lettuce and serve.",
+        "Steps": "1.Mince garlic and wash and trim stem lettuce. 2. Blanch stem lettuce in boiling water. 3. Heat oil and sauté garlic until fragrant. 4. Add oyster sauce, soy sauce, sugar, and water to the sautéed garlic. 5. Pour sauce over stem lettuce and serve."
+    },
+    {
+        "NameC": "鸡肉西兰花",
+        "NameE": "Chinese chicken and Broccoli",
+        "Meals": "Lunch & Dinner",
+        "Festival": null,
+        "Images": "https://cdn.sanity.io/images/2r0kdewr/production/b341ccf3bcbd8103f9c38318b9aaf5a71663ccd2-1000x668.jpg",
+        "Recipe": "(Main Ingredients:) 500 g lotus root, 1 tsp salt, 1 tbsp chicken bouillon, 20 g ginger, 4 cloves garlic, 3 1/2 tbsp adzuki beans, 2 1/2 tbsp peanuts, 2.5 L water for broth. (Prep & Cooking:) Slice lotus, crush garlic and ginger, add to boiling broth with lotus, beans, peanuts; season; simmer for 1hr.",
+        "Steps": "1.Slice lotus root, crush garlic, and ginger. 2. Add sliced lotus root, crushed garlic, and ginger to boiling broth. 3. Add adzuki beans and peanuts to the pot. 4. Season with salt and chicken bouillon. 5. Simmer on low heat for 1 hour. 6. Adjust seasoning if necessary and serve hot."
+    },
+    {
+        "NameC": "红豆沙",
+        "NameE": "Sweet Red Bean Soup",
+        "Meals": null,
+        "Festival": "Winter Solstice",
+        "Images": "https://cdn.sanity.io/images/2r0kdewr/production/520d23f68bf2fadc5a5dfee523f8a6a81aea459b-1000x668.jpg",
+        "Recipe": "(Main Ingredients) 1 cup red beans (adzuki beans), 3/4 cup sugar, 4 cups water, 1 piece of orange peel, 1 tbsp vegetable oil; (Prep) Rinse beans, soak overnight, remove orange peel's white pith; (Cooking) Boil beans and orange peel in water until soft, mash beans, add sugar, cook until thickened, stir in oil for gloss.",
+        "Steps": "1.Rinse red beans and soak overnight. Remove white pith from orange peel. 2. Boil red beans and orange peel in water until soft. 3. Mash the cooked beans and add sugar. 4. Cook until thickened, then stir in vegetable oil for gloss."
+    },
+    {
+        "NameC": "豉汁蝦",
+        "NameE": "Prawns with Black Bean Sauce",
+        "Meals": "Lunch & Dinner",
+        "Festival": "Chinese New Year",
+        "Images": "https://cdn.sanity.io/images/2r0kdewr/production/d1931c65fa68d57e98446106cec576bfcaa44c3e-1000x668.jpg",
+        "Recipe": "(Main Ingredients) 1 lb shrimp, peeled and deveined, 2 tbsp fermented black beans, 1 tbsp minced garlic, 1 tsp minced ginger, 2 tbsp soy sauce, 1 tbsp rice wine, 1 tsp sugar, 2 tbsp vegetable oil, 1/4 cup water; (Prep) Rinse and mash black beans, mince garlic and ginger; (Cooking) Heat oil, sauté garlic, ginger, and black beans until fragrant, add shrimp, stir-fry until pink, mix in soy sauce, rice wine, sugar, and water, simmer until sauce thickens.",
+        "Steps": "1.Rinse and mash fermented black beans. Mince garlic and ginger. 2. Heat vegetable oil and sauté minced garlic, ginger, and black beans until fragrant. 3. Add peeled and deveined shrimp, stir-fry until pink. 4. Mix in soy sauce, rice wine, sugar, and water. 5. Simmer until the sauce thickens."
+    },
+    {
+        "NameC": "白切鸡",
+        "NameE": "Steam Chicken",
+        "Meals": "Lunch & Dinner",
+        "Festival": "Chinese New Year",
+        "Images": "https://cdn.sanity.io/images/2r0kdewr/production/914da9f1101616eb1956ee99caa981248dc2985d-1000x563.jpg",
+        "Recipe": "(Main Ingredients) 1 whole chicken (about 3-4 lbs), 1 bunch green onions, 1 piece of ginger (about 2 inches), 1 tbsp salt, 1 tsp sugar, water for boiling; (Prep) Cut green onions into sections, slice ginger; (Cooking) Fill pot with water, add green onions, ginger, salt, and sugar, bring to a boil, add chicken, cover, reduce to a low simmer for about 30-40 minutes, turn off heat, let chicken sit in hot water for another 20 minutes, remove, cool, and chop into pieces.",
+        "Steps": "1.Cut green onions into sections and slice ginger. 2. Fill pot with water and add green onions, ginger, salt, and sugar. 3. Bring to a boil, then add the whole chicken. 4. Cover and reduce to a low simmer for about 30-40 minutes. 5. Turn off the heat and let the chicken sit in hot water for another 20 minutes. 6. Remove the chicken, cool, and chop into pieces."
+    },
+    {
+        "NameC": "酱油面",
+        "NameE": "Soy sauce noodles",
+        "Meals": "Breakfast",
+        "Festival": null,
+        "Images": "https://cdn.sanity.io/images/2r0kdewr/production/559b5ded1f34344fadc1ad8e5ad59e979782c400-1000x563.jpg",
+        "Recipe": "(Main Ingredients) 8 oz noodles, 3 tbsp soy sauce, 1 tbsp dark soy sauce, 1 tbsp oyster sauce, 1 tsp sugar, 2 tbsp vegetable oil, 2 cloves garlic minced, 1/4 cup chopped green onions; (Prep) Mince garlic, chop green onions; (Cooking) Cook noodles and drain, heat oil and sauté garlic until fragrant, add soy sauces, oyster sauce, and sugar, mix well, toss in noodles and green onions, stir until noodles are evenly coated.",
+        "Steps": "1.Mince garlic and chop green onions. 2. Cook noodles according to package instructions and drain. 3. Heat vegetable oil and sauté minced garlic until fragrant. 4. Add soy sauce, dark soy sauce, oyster sauce, and sugar to the sautéed garlic, mix well. 5. Toss in cooked noodles and chopped green onions, stir until noodles are evenly coated."
+    },
+    {
+        "NameC": "蒸三文鱼",
+        "NameE": "Steamed Salmon",
+        "Meals": "Lunch & Dinner",
+        "Festival": "Chinese New Year",
+        "Images": "https://cdn.sanity.io/images/2r0kdewr/production/1c322748cf3606188d5d6345c859eb4a255ed42c-1000x668.jpg",
+        "Recipe": "(Main Ingredients) 8 oz noodles, 1 lb sliced chicken breast, 1 julienned bell pepper, 1 julienned carrot, 1/4 cup soy sauce, 2 tbsp oyster sauce, 1 tbsp sesame oil, 1 tsp sugar, 2 tbsp oil, 2 minced garlic cloves, 1/4 cup green onions; (Prep) Slice chicken, julienne vegetables, mince garlic; (Cooking) Cook noodles, stir-fry chicken and vegetables, add noodles and sauces, garnish with green onions.",
+        "Steps": "1.Slice chicken breast, julienne bell pepper and carrot, and mince garlic. 2. Cook noodles according to package instructions. 3. Stir-fry sliced chicken and julienned vegetables in oil. 4. Add cooked noodles to the stir-fry along with soy sauce, oyster sauce, sesame oil, and sugar. 5. Garnish with minced garlic and green onions before serving."
+    },
+    {
+        "NameC": "鸡肉炒面",
+        "NameE": "Lo Mein",
+        "Meals": null,
+        "Festival": null,
+        "Images": "https://cdn.sanity.io/images/2r0kdewr/production/4ba5d16bc37976b03c4404e678bff07890b6e228-1000x668.jpg",
+        "Recipe": "(Main Ingredients) 1 lb pork shoulder, 1/4 cup honey, 2 tbsp soy sauce, 1 tbsp hoisin, 1 tbsp oyster sauce, 1 tbsp rice wine, 2 tsp five-spice, 1 tsp garlic, 1 tsp ginger, 1 tbsp oil; (Prep) Mix sauces, wine, five-spice, garlic, ginger; (Cooking) Marinate pork, roast at 375°F for 25-30 mins, baste with honey mix.",
+        "Steps": "1.Mix honey, soy sauce, hoisin, oyster sauce, rice wine, five-spice, garlic, and ginger. 2. Marinate pork with the prepared sauce mixture. 3. Roast marinated pork at 375°F for 25-30 minutes. 4. Baste the pork with the honey mixture during roasting."
+    },
+    {
+        "NameC": "蜜汁叉烧",
+        "NameE": "Char Siu",
+        "Meals": "Lunch & Dinner",
+        "Festival": "Chinese New Year",
+        "Images": "https://cdn.sanity.io/images/2r0kdewr/production/b6e7f2b1386218e358815bb2566a413c94ed475e-1000x668.jpg",
+        "Recipe": "(Main Ingredients) Bean sauce, hoisin, red bean curd, wine, garlic, sugar, pepper, five-spice, pork butt, honey; (Prep) Mix sauces, curd, wine, garlic, spices, season. Prep pork; (Cooking) Marinate pork 4-24h, air fry at 385°F for 20 mins, honey glaze, rest, slice, serve.",
+        "Steps": "1.Mix bean sauce, hoisin, red bean curd, wine, garlic, sugar, pepper, and five-spice. 2. Season pork butt. Prep pork. 3. Marinate pork for 4-24 hours. 4. Air fry marinated pork at 385°F for 20 minutes. 5. Glaze with honey, let it rest, then slice and serve."
+    },
+    {
+        "NameC": "鸡蛋炒饭",
+        "NameE": "Egg Fried Rice",
+        "Meals": "Lunch & Dinner",
+        "Festival": null,
+        "Images": "https://cdn.sanity.io/images/2r0kdewr/production/2c90f6410d47972d8555dd5ddcbcc47346957d43-1000x668.jpg",
+        "Recipe": "(Main Ingredients) 2 cups cooked rice (cooled), 2 eggs, 1/4 cup chopped green onions, 1 tbsp soy sauce, 1 tsp sesame oil, 2 tbsp vegetable oil, salt to taste; (Prep) Beat eggs, chop green onions; (Cooking) Heat oil, scramble eggs, add rice, green onions, soy sauce, sesame oil, stir-fry until hot.",
+        "Steps": "1.Beat eggs and chop green onions. 2. Heat vegetable oil and scramble eggs. 3. Add cooked rice, chopped green onions, soy sauce, and sesame oil. 4. Stir-fry until hot."
+    },
+    {
+        "NameC": "番茄炒蛋",
+        "NameE": "Tomato & Egg",
+        "Meals": "Lunch & Dinner",
+        "Festival": null,
+        "Images": "https://cdn.sanity.io/images/2r0kdewr/production/72015968dbe45ffb3228799a7b3026c49ddc12cf-1000x667.jpg",
+        "Recipe": "(Main Ingredients) 4 eggs, 2 large tomatoes cut into wedges, 2 tsp sugar, 1/2 tsp salt, 2 tbsp vegetable oil, 1/4 cup chopped green onions; (Prep) Beat eggs, cut tomatoes; (Cooking) Heat oil, scramble eggs, remove, add tomatoes, sugar, salt, cook until soft, return eggs, mix, garnish with green onions.",
+        "Steps": "1.Beat eggs and cut tomatoes into wedges. 2. Heat vegetable oil in a pan. 3. Scramble the beaten eggs until cooked, then remove from the pan. 4. Add tomato wedges to the pan with sugar and salt, cook until soft. 5. Return the scrambled eggs to the pan, mix with tomatoes. 6. Garnish with chopped green onions before serving."
+    },
+    {
+        "NameC": "素炒红萝卜",
+        "NameE": "Stir-fried vegetable",
+        "Meals": "Lunch & Dinner",
+        "Festival": null,
+        "Images": "https://cdn.sanity.io/images/2r0kdewr/production/1b5c8e55e160924288630f266bd4ae215bae3031-1000x668.jpg",
+        "Recipe": "(Main Ingredients:)8 oz carrot,1 oz dried cloud ear fungus,3 oz snow pea,4 oz seafood mushroom, 3 oz king oyster mushroom (1 mushroom), 5 oz celery (2 stalks), 0.50 oz ginger, 0.50 oz garlic,4 cup water, 2 tablespoon oil,1 teaspoon cooking wine,1 teaspoon oil (for finishing)(Stir Fry Sauce Ingredients:)1 tablespoon oyster sauce (or vegetarian oyster sauce for a fully vegetarian dish), 2 teaspoon light soy sauce, 0.50 teaspoon salt,1 teaspoon sugar,2 tablespoon water,2 teaspoon potato starch (or cornstarch)",
+        "Steps": "1.Rinse and chop vegetables. 9. Heat oil in a wok or pan. 10. Stir-fry garlic and ginger until fragrant. 11. Add sliced lotus root and other vegetables. 12. Stir-fry until vegetables are tender. 13. Season with soy sauce, salt, and sugar. 14. Serve hot."
+    },
+    {
+        "NameC": "蓮藕汤",
+        "NameE": "Lotus root and pork soup",
+        "Meals": null,
+        "Festival": null,
+        "Images": "https://i0.wp.com/www.wokandkin.com/wp-content/uploads/2021/06/Lotus-Root-Soup-saved-for-web-1200px.png?w=1200&ssl=1",
+        "Recipe": "(Main Ingredients) 1 lb sliced lotus root, 1/2 lb pork ribs, 2 slices ginger, 6 cups water, 1 tsp salt; (Prep) Clean ribs, slice lotus root; (Cooking) Boil water with ginger, add ribs and lotus root, simmer for 2 hours, season with salt.",
+        "Steps": "1.Evenly slice the lotus root. 2. Crush garlic cloves and ginger. 3. Bring stock to a boil in a large pot. 4. Add lotus root slices, adzuki beans, and peanuts to the pot. 5. Season with salt and chicken bouillon. 6. Simmer on low heat for 1 hour. 7. Adjust seasoning if necessary and serve hot."
+    },
+    {
+        "NameC": "蔬菜汤",
+        "NameE": "Grandma' vegetable soup",
+        "Meals": null,
+        "Festival": null,
+        "Images": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/408938/77ff04e638879534.jpg",
+        "Recipe": "(Main Ingredients) 4 cups vegetable broth, 1 cup chopped carrots, 1 cup diced potatoes, 1 cup chopped celery, 1/2 cup diced onions, 1 cup chopped tomatoes, 1 tsp salt, 1/2 tsp pepper; (Prep) Chop all vegetables; (Cooking) Combine all ingredients in a pot, bring to boil, simmer until vegetables are tender.",
+        "Steps": "1.Combine 4 cups of vegetable broth, 1 cup of chopped carrots, 1 cup of diced potatoes, 1 cup of chopped celery, 1/2 cup of diced onions, 1 cup of chopped tomatoes, 1 tsp of salt, and 1/2 tsp of pepper in a pot. Bring the mixture to a boil and simmer until the vegetables are tender."
+    },
+    {
+        "NameC": "西洋菜汤",
+        "NameE": "Chinese Watercress Soup",
+        "Meals": null,
+        "Festival": null,
+        "Images": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/d4f133db-047d-4350-a1b0-1b0c816be810/Derivates/68654026-deb6-4ca7-9271-0a29ec164b51.jpg",
+        "Recipe": "(Main Ingredients) 300g pork ribs/lean pork, 1 bunch watercress, 2-3 ginger slices, 8 cups water, Salt; (Prep) Chop pork, prepare watercress and ginger; (Cooking) Boil water, add pork and ginger, simmer. Add watercress, cook till tender, season with salt.",
+        "Steps": "1.Chop pork into pieces, prepare watercress by washing and trimming, slice ginger. 2. Boil 8 cups of water in a large pot. 3. Add chopped pork and ginger to the boiling water, simmer. 4. Add prepared watercress to the pot, cook until tender. 5. Season the soup with salt to taste."
+    },
+    {
+        "NameC": "清蒸鱼",
+        "NameE": "Cantonese steamed fish with ginger and shallots",
+        "Meals": "Lunch & Dinner",
+        "Festival": "Chinese New Year",
+        "Images": "https://m1.aboluowang.com/uploadfile/2019/0317/20190317032747592.webp",
+        "Recipe": "(Main Ingredients) 1 white fish (sea bass/tilapia/flounder), cleaned, scored; 2-3 tbsp soy sauce; 1 tbsp sesame oil; 2-3 tbsp cooking oil; 1-2 inches ginger, matchsticks; 4-5 shallots, sliced; Fresh cilantro; (Prep) Slice ginger, shallots; (Cooking) Season fish with soy sauce, sesame oil, top with ginger. Heat oil, pour on fish, steam until done, garnish with shallots, cilantro.",
+        "Steps": "1.Season fish with 2-3 tbsp soy sauce and 1 tbsp sesame oil. 2. Slice 1-2 inches of ginger into matchsticks and 4-5 shallots. 3. Place sliced ginger on top of the fish. 4. Heat 2-3 tbsp cooking oil and pour it over the fish. 5. Steam the fish until done. 6. Garnish with sliced shallots and fresh cilantro before serving."
+    },
+    {
+        "NameC": "猪脚姜醋",
+        "NameE": "Pork Knuckles in Ginger Vinegar Stew",
+        "Meals": "Lunch & Dinner",
+        "Festival": null,
+        "Images": "https://cdn.sanity.io/images/2r0kdewr/production/f75bad3e06d129e145157dd6a1e1d6427a84f4c1-1000x667.jpg",
+        "Recipe": "(Main Ingredients) 2 pig's feet (split and cleaned), 2 cups black vinegar, 1 cup sweet rice wine, 1 cup ginger (sliced), 1/2 cup brown sugar, 2 eggs (hard-boiled and peeled), 6 cups water; (Prep) Clean pig's feet, slice ginger; (Cooking) Boil pig's feet with ginger and water until tender, add vinegar, wine, sugar, simmer for 1 hour, add eggs last 10 minutes.",
+        "Steps": "1.Clean pig's feet and slice ginger. 2. Boil pig's feet with ginger and water until tender. 3. Add black vinegar, sweet rice wine, and brown sugar. 4. Simmer for 1 hour. 5. Add hard-boiled and peeled eggs in the last 10 minutes of simmering."
+    },
+    {
+        "NameC": "佛跳墙",
+        "NameE": "Buddha Jumps Over the Wall",
+        "Meals": "Lunch & Dinner",
+        "Festival": "Chinese New Year",
+        "Images": "https://static.xinshipu.com/20160619_1/original/1466351731891.jpg",
+        "Recipe": "(Main Ingredients) 1/2 lb abalone, 1/2 lb sea cucumber (soaked and cleaned), 1/2 lb fish maw (soaked), 1/4 lb scallops, 1/4 lb shrimp, 1/2 lb chicken (cut into pieces), 2 quail eggs, 1/4 lb ham (sliced), 1/4 lb mushrooms (soaked), 10 cups chicken broth, 2 tbsp Shaoxing wine, 1 tbsp soy sauce, 1 tsp salt, 1 tsp sugar; (Prep) Soak sea cucumber, fish maw, scallops, mushrooms; (Cooking) Combine all ingredients in a pot, simmer for 3 hours, add Shaoxing wine, soy sauce, salt, and sugar towards the end.",
+        "Steps": "1.Soak sea cucumber, fish maw, scallops, and mushrooms. 2. Combine all ingredients including abalone, sea cucumber, fish maw, scallops, shrimp, chicken, quail eggs, ham, mushrooms, chicken broth, Shaoxing wine, soy sauce, salt, and sugar in a pot. 3. Simmer for 3 hours. 4. Add Shaoxing wine, soy sauce, salt, and sugar towards the end of cooking."
+    },
+    {
+        "NameC": "汤圆",
+        "NameE": "Sweet Sesame Tong Jyun",
+        "Meals": "Dinner",
+        "Festival": "Lantern",
+        "Images": "https://cdn.sanity.io/images/2r0kdewr/production/2b50f3a3bb676497249af6a4b4584d69da49ca21-1000x667.jpg",
+        "Recipe": "(Main Ingredients) 10 oz glutinous rice flour, 3-5 oz water, 1 tbsp butter, 2 tbsp each: black sesame, coconut, peanut butter, honey; (Prep) Mix flour with hot water, then cold, to dough. Combine butter, sesame, coconut, peanut butter, honey for filling. Freeze balls; (Cooking) Boil dough balls, cool in ice. Sweet soup: 12 oz water, 4 tbsp sugar, 2 tbsp creamer, ginger. Serve balls in soup.",
+        "Steps": "1.Mix 10 oz glutinous rice flour with 3-5 oz water and 1 tbsp butter to form dough. Combine 2 tbsp each of black sesame, coconut, peanut butter, and honey for filling. 2.Freeze dough balls.3.Boil dough balls and cool in ice water. Prepare sweet soup with 12 oz water, 4 tbsp sugar, 2 tbsp creamer, and ginger. Serve balls in soup."
+    },
+    {
+        "NameC": "青团",
+        "NameE": "Green Glutinous Rice Balls",
+        "Meals": null,
+        "Festival": "Qingming",
+        "Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqtPLEwoyiy3SEN5WXy2p3iSUM-j6Ld73fUw8z8EpqfXehjfMeQ0URoJn5Zg&s",
+        "Recipe": "(Main Ingredients) 2 cups glutinous rice flour, 1 cup fresh mugwort or spinach (blanched and pureed), 1/2 cup water (adjust as needed), 1/4 cup sugar, 1 cup sweet red bean paste; (Prep) Puree blanched mugwort or spinach, mix with water; (Cooking) Mix glutinous rice flour, green puree, sugar to form a dough, divide into balls, fill with red bean paste, steam for 15 mins.",
+        "Steps": "1.Puree blanched mugwort or spinach and mix with water. 2. Mix glutinous rice flour, green puree, and sugar to form a dough. 3. Divide the dough into balls and fill each with sweet red bean paste. 4. Steam the filled balls for 15 minutes."
+    },
+    {
+        "NameC": "广式月饼",
+        "NameE": "Mooncake",
+        "Meals": null,
+        "Festival": "Mid-Autumn",
+        "Images": "https://redhousespice.com/wp-content/uploads/2022/08/Chinese-mooncakes-with-salted-yolk-scaled.jpg",
+        "Recipe": "(Main Ingredients) 1 cup golden syrup, 1/2 cup peanut oil, 1/4 tsp alkaline water, 3 cups all-purpose flour, 1 cup lotus seed paste, 6 salted egg yolks (cooked), 1 egg (beaten, for glaze); (Prep) Mix syrup, oil, alkaline water, add flour to form dough, rest for 2 hrs; (Cooking) Divide dough, wrap lotus paste and egg yolk inside, shape, brush with egg, bake at 375°F for 20-25 mins.",
+        "Steps": "1.Mix 1 cup golden syrup, 1/2 cup peanut oil, and 1/4 tsp alkaline water. Add 3 cups all-purpose flour to form dough, then let it rest for 2 hrs. 2. Divide the dough and wrap lotus seed paste and cooked salted egg yolks inside. 3. Shape the dough and brush with beaten egg for glaze. 4. Bake at 375°F for 20-25 mins to make Guangdong-style mooncakes."
+    },
+    {
+        "NameC": "饺子",
+        "NameE": "Dumplings",
+        "Meals": "Lunch & Dinner",
+        "Festival": "Chinese New Year",
+        "Images": "https://i0.wp.com/www.aspicyperspective.com/wp-content/uploads/2014/01/potstickers-chinese-dumplings-recipe-15.jpg?resize=1200%2C1687&ssl=1",
+        "Recipe": "(Main Ingredients) 2 cups all-purpose flour, 3/4 cup water, 1/2 lb ground pork, 1 cup chopped cabbage, 1/4 cup minced scallions, 2 tsp soy sauce, 1 tsp sesame oil, 1 tsp minced ginger, 1/4 tsp salt; (Prep) Mix flour and water to form dough, mix pork, cabbage, scallions, soy sauce, sesame oil, ginger, salt; (Cooking) Roll dough into wrappers, fill with mixture, seal, boil or pan-fry until cooked.",
+        "Steps": "1.Mix 2 cups all-purpose flour and 3/4 cup water to form dough. Mix 1/2 lb ground pork, 1 cup chopped cabbage, 1/4 cup minced scallions, 2 tsp soy sauce, 1 tsp sesame oil, 1 tsp minced ginger, and 1/4 tsp salt.2.Roll the dough into wrappers. Fill each wrapper with the pork mixture and seal them.3.Boil or pan-fry the dumplings until cooked."
+    },
+    {
+        "NameC": "萝卜糕",
+        "NameE": "Chinese Turnip Cake",
+        "Meals": null,
+        "Festival": "Chinese New Year",
+        "Images": "https://cdn.sanity.io/images/2r0kdewr/production/b24131888f349841256d4c07629a5d481f8b98ce-1000x563.jpg",
+        "Recipe": "(Main Ingredients) White radish (daikon), rice flour, water, dried shrimp, Chinese sausage (lap cheong), shiitake mushrooms, scallions, salt, white pepper, and sugar.",
+        "Steps": "1.Mix flour and water to form dough. Mix ground pork, chopped cabbage, minced scallions, soy sauce, sesame oil, minced ginger, and salt.2.Roll dough into wrappers, fill with mixture, and seal.3.Boil or pan-fry until cooked."
+    },
+    {
+        "NameC": "蒸水蛋",
+        "NameE": "Chinese steamed eggs",
+        "Meals": "Lunch & Dinner",
+        "Festival": "Chinese New Year",
+        "Images": "https://smellylunchbox.com/wp-content/uploads/2023/03/steamedeggs-768x1024.webp",
+        "Recipe": "(Main Ingredients) 2-3 large eggs, 1.5 cups water (or chicken broth for more flavor), pinch of salt, few drops of sesame oil (optional), garnish with chopped green onions or light soy sauce (optional).",
+        "Steps": "1.Combine 2-3 large eggs, 1.5 cups water (or chicken broth for more flavor), a pinch of salt, and a few drops of sesame oil (optional).2.Garnish with chopped green onions or light soy sauce (optional)."
+    },
+    {
+        "NameC": "干炒牛河",
+        "NameE": "Beef chow fun",
+        "Meals": null,
+        "Festival": null,
+        "Images": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Gon_caau_ngau_ho_%2820150222171214%29.JPG/2560px-Gon_caau_ngau_ho_%2820150222171214%29.JPG",
+        "Recipe": "(Main Ingredients) 1 lb sliced lotus root, 1/2 lb pork ribs, 2 slices ginger, 6 cups water, 1 tsp salt; (Prep) Clean ribs, slice lotus root; (Cooking) Boil water with ginger, add ribs and lotus root, simmer for 2 hours, season with salt.",
+        "Steps": "1.Clean pork ribs and slice lotus root. 2. Boil 6 cups of water with 2 slices of ginger. 3. Add sliced lotus root and pork ribs to the boiling water. 4. Simmer for 2 hours. 5. Season with 1 tsp of salt."
+    },
+    {
+        "NameC": "紅豆年糕",
+        "NameE": "Nian Gao with Red Bean",
+        "Meals": null,
+        "Festival": "Chinese New Year",
+        "Images": "https://cdn.sanity.io/images/2r0kdewr/production/336bff44e91a98246cd052e6a82408fe45e20517-1000x563.jpg",
+        "Recipe": "(Main Ingredients) Glutinous rice flour, red beans (adzuki beans), sugar, water; (Prep) Rinse red beans and soak overnight; (Cooking) Cook red beans until soft, mash them, mix with glutinous rice flour, sugar, and water to form a batter, steam until firm.",
+        "Steps": "1.Rinse red beans and soak overnight. 2. Cook red beans until soft, then mash them. 3. Mix mashed red beans with glutinous rice flour, sugar, and water to form a batter. 4. Steam the batter until firm."
+    },
+    {
+        "NameC": "烧卖",
+        "NameE": "Siu Mai",
+        "Meals": "Breakfast",
+        "Festival": null,
+        "Images": "https://cdn.sanity.io/images/2r0kdewr/production/e63ab3abf064d500fbf63f1d507671e152898342-1000x563.jpg",
+        "Recipe": "(Main Ingredients) Ground pork, shrimp, shiitake mushrooms, water chestnuts, bamboo shoots, wonton wrappers, green onions, soy sauce, sesame oil, salt, white pepper, cornstarch; (Prep) Finely chop shrimp, mushrooms, water chestnuts, and bamboo shoots. Chop green onions. (Cooking) Mix ground pork, chopped shrimp, mushrooms, water chestnuts, bamboo shoots, green onions, soy sauce, sesame oil, salt, white pepper, and cornstarch. Place a spoonful of the mixture onto a wonton wrapper, shape into a cup, and steam until cooked through. Serve hot with dipping sauce.",
+        "Steps": "1.Finely chop shrimp, shiitake mushrooms, water chestnuts, bamboo shoots, and green onions. 2. Mix ground pork with chopped ingredients, soy sauce, sesame oil, salt, white pepper, and cornstarch. 3. Place a spoonful of the mixture onto a wonton wrapper, shape into a cup. 4. Steam until cooked through. 5. Serve hot with dipping sauce."
+    },
+    {
+        "NameC": "虾饺",
+        "NameE": "Har gow",
+        "Meals": "Breakfast",
+        "Festival": null,
+        "Images": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Shrimp_dumplings.jpg/2560px-Shrimp_dumplings.jpg",
+        "Recipe": "(Main Ingredients) Shrimp, bamboo shoots, water chestnuts, cornstarch, salt, sugar, sesame oil, white pepper, wonton wrappers; (Prep) Peel and devein shrimp, finely chop bamboo shoots and water chestnuts; (Cooking) Mix shrimp, bamboo shoots, water chestnuts, cornstarch, salt, sugar, sesame oil, and white pepper in a bowl. Place a portion of filling onto each wonton wrapper, fold and seal. Steam until cooked through. Serve hot with dipping sauce.",
+        "Steps": "1.Peel and devein shrimp. Finely chop bamboo shoots and water chestnuts. 2. Mix shrimp, bamboo shoots, water chestnuts, cornstarch, salt, sugar, sesame oil, and white pepper in a bowl. 3. Place a portion of filling onto each wonton wrapper, then fold and seal. 4. Steam until cooked through. 5. Serve hot with dipping sauce."
+    },
+    {
+        "NameC": "榨菜蒸肉饼",
+        "NameE": "Steamed Pork Patty",
+        "Meals": null,
+        "Festival": "Chinese New Year&Mid-Autumn",
+        "Images": "https://thewoksoflife.com/wp-content/uploads/2020/04/steamed-pork-yook-baeng-10.jpg",
+        "Recipe": "(Main Ingredients) Ground pork, fermented black beans, minced garlic, minced ginger, soy sauce, rice wine, sugar, vegetable oil, water.(Prep) Mix pork with garlic, ginger, soy sauce, rice wine, sugar. Form into patties. Rinse black beans.(Cooking) Place patties on plate, top with rinsed black beans. Steam until cooked. Heat oil in pan, pour over patties. Serve hot.",
+        "Steps": "1.Mix ground pork with minced garlic, minced ginger, soy sauce, rice wine, and sugar. Form into patties.2.Rinse fermented black beans.3.Place the formed patties on a plate and top with rinsed black beans.4.Steam the patties until cooked.5.Heat vegetable oil in a pan and pour over the cooked patties."
+    },
+    {
+        "NameC": "豉汁蒸排骨",
+        "NameE": "Steamed Spare Ribs with Black Bean Sauce",
+        "Meals": null,
+        "Festival": "Chinese New Year&Mid-Autumn",
+        "Images": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Dimsumpaigui.jpg",
+        "Recipe": "(Main Ingredients) Pork spare ribs, fermented black beans, garlic, ginger, soy sauce, sugar, Shaoxing wine, vegetable oil, salt, pepper; (Prep) Rinse spare ribs, mince garlic and ginger, rinse fermented black beans; (Cooking) Marinate spare ribs with minced garlic, ginger, soy sauce, sugar, Shaoxing wine, and vegetable oil. Stir-fry fermented black beans until fragrant, then mix with spare ribs. Steam the spare ribs until cooked through. Adjust seasoning with salt and pepper before serving.",
+        "Steps": "1.Prepare ingredients: Peel shrimp, chop chives, mince scallions and ginger. 2. Heat oil, sauté scallions and ginger. 3. Add shrimp and chives, season. 4. Steam dumplings. 5. Serve with dipping sauce."
+    },
+    {
+        "NameC": "甘薯叶",
+        "NameE": "Stir fry sweet potato leaves with garlic",
+        "Meals": "Lunch & Dinner",
+        "Festival": null,
+        "Images": "https://smellylunchbox.com/wp-content/uploads/2023/07/stirfrysweetpotatoleaves-813x1024.webp",
+        "Recipe": "(Main Ingredients) Sweet potato leaves, garlic cloves, vegetable oil, salt; (Prep) Rinse sweet potato leaves and garlic cloves, chop garlic cloves; (Cooking) Heat vegetable oil in a pan, sauté chopped garlic until fragrant, add sweet potato leaves and stir-fry until wilted, season with salt to taste.",
+        "Steps": "1.Rinse sweet potato leaves and garlic cloves, then chop the garlic cloves2.Heat vegetable oil in a pan and sauté chopped garlic until fragrant.3.Add sweet potato leaves to the pan and stir-fry until wilted.4.Season with salt to taste."
+    },
+    {
+        "NameC": "鮮蝦韮菜餃",
+        "NameE": "Steamed Dumplings with Shrimp and Chives",
+        "Meals": "Breakfast",
+        "Festival": null,
+        "Images": "https://timhowanusa.com/wp-content/uploads/elementor/thumbs/tim-ho-wan_steamed_steamed-shrimp-and-chives-dumplings_web-q5xmjd257y1wdx1a7pj9hyhro25chbjak8k7lcp6k0.jpg",
+        "Recipe": "(Main Ingredients) Shrimp, chives, scallions, ginger, soy sauce, salt, white pepper, sesame oil, dumpling wrappers;(Prep) Peel shrimp, chop chives, mince scallions and ginger;(Cooking) Sauté scallions and ginger, add shrimp and chives, season, steam dumplings. Serve with dipping sauce.",
+        "Steps": "1.Prepare ingredients: Peel shrimp, chop chives, mince scallions and ginger. 2. Heat oil, sauté scallions and ginger. 3. Add shrimp and chives, season. 4. Steam dumplings. 5. Serve with dipping sauce."
+    },
+    {
+        "NameC": "广式咸肉粽子",
+        "NameE": "Savory Pork Zongzi",
+        "Meals": null,
+        "Festival": "Mid-Autumn",
+        "Images": "https://hips.hearstapps.com/hmg-prod/images/fwefewf-1651638557.jpg?crop=0.495xw:0.990xh;0,0&resize=640:*",
+        "Recipe": "(Main Ingredients) Pork spare ribs, fermented black beans, garlic, ginger, soy sauce, sugar, Shaoxing wine, vegetable oil, salt, pepper; (Prep) Rinse spare ribs, mince garlic and ginger, rinse fermented black beans; (Cooking) Marinate spare ribs with minced garlic, ginger, soy sauce, sugar, Shaoxing wine, and vegetable oil. Stir-fry fermented black beans until fragrant, then mix with spare ribs. Steam the spare ribs until cooked through. Adjust seasoning with salt and pepper before serving.",
+        "Steps": "1.Rinse bamboo leaves; soak in hot water. 2. Wash glutinous rice; soak 30 min-1 hr. 3. Cut pork; marinate 20-30 min. 4. Flatten leaves; add rice, pork; wrap; tie. 5. Boil zongzi in water until cooked, 1.5-2 hrs. 6. Cool before serving."
+    },
+    {
+        "NameC": "清明粄",
+        "NameE": "Qingming rice cake",
+        "Meals": null,
+        "Festival": "Qingming",
+        "Images": "https://www.ihergo.com/photo/product/47/750_27847_1416715644534.jpg",
+        "Recipe": "(Main Ingredients) Glutinous rice flour, fresh mugwort or wheatgrass juice, sweet bean paste or taro paste, sugar, water;(Prep) Wash and blanch mugwort or wheatgrass to extract juice, strain to get a clear green liquid. Prepare sweet bean paste or taro paste for filling;(Cooking) Mix glutinous rice flour with mugwort or wheatgrass juice and sugar to form a dough. Divide the dough into small pieces and flatten them. Place a spoonful of bean or taro paste onto each piece of dough, then seal and shape into balls. Steam the dumplings over high heat until they become translucent and soft. Adjust sweetness if necessary before serving.",
+        "Steps": "1.Prepare the juice: Clean fresh mugwort or wheatgrass; blanch briefly. Grind and squeeze to extract the juice; strain for a clear green liquid. 2. Make the dough: Mix glutinous rice flour with the green juice to form a pliable dough. Let it rest for about 30 minutes. 3. Prepare the filling: Make or purchase sweet bean paste or taro paste. 4. Shape the dumplings: Divide the dough into small portions. Flatten each portion and place a spoonful of filling in the center. 5. Form the Tuan: Enclose the filling with the dough, rolling it into a ball. Ensure it is sealed well to prevent the filling from leaking out. 6. Steam the Tuan: Place the dumplings in a steamer lined with parchment paper. Steam for about 20-30 minutes, or until they are cooked through and slightly translucent. 7. Serve: Allow the Qingming Tuan to cool slightly before serving; they are best enjoyed warm."
+    },
+    {
+        "NameC": "糍粑",
+        "NameE": "Ciba",
+        "Meals": null,
+        "Festival": "Qingming",
+        "Images": "https://p1-tt.byteimg.com/origin/tos-cn-i-qvj2lq49k0/0b223b5e58cc4cd49d0942112549710f.jpg",
+        "Recipe": "(Main Ingredients) Glutinous rice, water, salt; (optional fillings can include: peanuts, sesame seeds, red bean paste); (Prep) Soak glutinous rice in water overnight; drain. If using fillings, prepare them—roast peanuts, toast sesame seeds, or ready-made red bean paste; (Cooking) Spread soaked rice on a cloth in a steamer. Steam for about 30-40 minutes or until the rice is cooked and sticky. If adding fillings, press them into the center of small portions of the rice dough. Wet hands with salted water, take a portion of the steamed rice and roll into a ball or patty. Serve warm or allow to cool and set for a firmer texture.",
+        "Steps": "1.Prepare the rice: Rinse glutinous rice thoroughly; soak in water for 3-4 hours or overnight for best results. 2. Prepare the filling (if using): Roast peanuts or sesame seeds; set aside. Ready-made red bean paste should be on hand if chosen as a filling. 3. Cook the rice: Drain the soaked rice and spread evenly on a cloth over a steamer. Steam for 30-40 minutes until the rice is sticky and fully cooked. 4. Shape the dumplings: If using fillings, place a small amount in the center of a portioned rice ball. Wet hands with salted water, and mold the rice around the filling, forming a ball or patty shape. 5. Finish the dumplings: Continue until all the rice is used. For plain dumplings without filling, simply shape the steamed rice into balls or patties. 6. Serve or store: Enjoy the dumplings warm, or let them cool and set if a firmer consistency is desired. Dumplings can be stored for later consumption."
+    }
+]
