@@ -5,26 +5,26 @@ body {
 
 @font-face {
   font-family: "Misto";
-  src: url(assets/fonts/Misto.ttf);
+  src: url(/assets/css/fonts/Misto.ttf);
 }
 @font-face {
   font-family: "CrimsonPro-Regular";
-  src: url(assets/fonts/CrimsonPro-Regular.ttf);
+  src: url(/assets/css/fonts/CrimsonPro-Regular.ttf);
 }
 @font-face {
   font-family: "CrimsonPro-Bold";
-  src: url(assets/fonts/CrimsonPro-Bold.ttf);
+  src: url(/assets/css/fonts/CrimsonPro-Bold.ttf);
 }
 @font-face {
   font-family: "TomatoKetchup-Regular";
-  src: url(assets/fonts/Tomato\ Ketchup.otf);
+  src: url(/assets/css/fonts/TomatoKetchup.otf);
 }
 @font-face {
   font-family: "TomatoKetchup-Bold";
-  src: url(assets/fonts/Tomato\ Ketchup_Bold.otf);
+  src: url(/assets/css/fonts/TomatoKetchup_Bold.otf);
 }
 body {
-  background: url(assets/img/header.png) no-repeat center center/cover;
+  background: url(header.png) no-repeat center center/cover;
 }
 :root {
   --width-1728: 1728px;
@@ -96,13 +96,22 @@ header .slogan {
 }
 nav {
   padding-top: calc(var(--space-10) * 3);
+  display: flex;
 }
 nav a {
-  padding: calc(var(--space-10) * 4) 0;
+  padding: 0 calc(var(--space-10));
   color: var(--color-white);
   margin-right: calc(var(--space-10) * 4);
   font-size: calc(var(--font-size-20) * 1.8);
+  display: flex;
+  align-items: center;
+  justify-content: center;
   font-family: "TomatoKetchup-Regular";
+  height: calc(var(--space-10) * 2.5);
+  border-radius: var(--space-10);
+}
+nav a:hover {
+  text-decoration: underline;
 }
 
 .story {
@@ -158,10 +167,20 @@ nav a {
 }
 
 footer {
-  height: 100%;
+  height: 15%;
+  align-items: flex-end;
+  background: url(./img/footer.png) center/100% 100% no-repeat;
+  margin-top: calc(var(--space-10) * 12);
+  justify-content: space-between !important;
+  padding: 0 5%;
+}
+footer p {
+  color: var(--color-white);
+  font-size: calc(var(--font-size-20) * 1.2);
 }
 .explore {
   all: unset;
+  display: block;
   font-family: "TomatoKetchup-Regular";
   font-size: calc(var(--font-size-20) * 2);
   width: calc(var(--space-10) * 25);
@@ -171,6 +190,6 @@ footer {
   border-radius: calc(var(--space-10) * 3.8);
   text-align: center;
   line-height: calc(var(--space-10) * 6);
-  margin-top: calc(var(--space-10) * 15);
+  margin: calc(var(--space-10) * 40) auto 0 auto;
   cursor: pointer;
 }
