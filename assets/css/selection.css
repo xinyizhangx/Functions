@@ -155,7 +155,7 @@ nav a {
 footer {
   height: 15%;
   align-items: flex-end;
-  background: url(./img/footer.png) center/100% 100% no-repeat;
+  background: url(/assets/css/img/footer.png) center/100% 100% no-repeat;
   margin-top: calc(var(--space-10) * 12);
   justify-content: space-between !important;
   padding: 0 5%;
