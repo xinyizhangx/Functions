@@ -95,6 +95,7 @@ header .slogan {
   font-size: calc(var(--font-size-20) * 4.6);
 }
 nav {
+  font-family: "TomatoKetchup-Regular";
   padding-top: calc(var(--space-10) * 3);
   display: flex;
 }
@@ -106,7 +107,6 @@ nav a {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-family: "TomatoKetchup-Regular";
   height: calc(var(--space-10) * 2.5);
   border-radius: var(--space-10);
 }
