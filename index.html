@@ -6,7 +6,11 @@
     <title>YumYue</title>
     <link rel="stylesheet" href="assets/css/reset.css" />
     <link rel="stylesheet" href="assets/css/index.css" />
-    <link rel="apple-touch-icon" href="assets/css/img/icon.png" />
+    <link
+      rel="shortcut icon"
+      href="assets/css/img/icon.ico"
+      type="image/x-icon"
+    />
     <script defer src="assets/index.js"></script>
   </head>
   <body>
@@ -19,7 +23,7 @@
         </div>
         <nav>
           <a href="index.html">Home</a>
-          <a href="recipe.html">Recipe</a>
+          <a href="#content">Recipe</a>
           <a href="about.html">About</a>
         </nav>
         <pre class="slogan">
@@ -27,19 +31,27 @@
           No Borders
         </pre>
       </header>
-      <article class="story">
-        <img src="assets/css/img/earth.png" alt="" />
-        <pre>
-          Rediscover the warmth of home: Our
-        website brings Cantonese cuisine to
-        your kitchen, guiding you through the
-        joys of cooking and connecting you
-        with the flavors of your homeland,
-        no matter where you are in the world.
-        </pre>
-      </article>
-      <article class="data"></article>
-      <a href="customize.html" class="explore">EXPLORE</a>
+      <div class="content" id="content">
+        <div class="buttons">
+          <select name="Festivals" id="festivals">
+            <option value="Festival">Festival</option>
+            <option value="Chinese New Year">Chinese New Year</option>
+            <option value="Winter Solstice">Winter Solstice</option>
+            <option value="Lantern">Lantern</option>
+            <option value="Qingming">Qingming</option>
+            <option value="Mid-Autumn">Mid-Autumn</option>
+          </select>
+          <select
+            name="Meals"
+            id="me/Users/zhangxigua/Downloads/Functions/assets/fontsals"
+          >
+            <option value="Meals">Meals</option>
+            <option value="Breakfast">Breakfast</option>
+            <option value="Lunch & Dinner">Lunch & Dinner</option>
+          </select>
+        </div>
+        <article class="data"></article>
+      </div>
       <footer class="flex">
         <p class="description">Typography & Interaction</p>
         <p class="pj">Project 5</p>
