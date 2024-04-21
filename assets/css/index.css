@@ -8,23 +8,23 @@ body {
 
 @font-face {
   font-family: "Misto";
-  src: url(assets/css/fonts/Misto.ttf);
+  src: url(fonts/Misto.ttf);
 }
 @font-face {
   font-family: "CrimsonPro-Regular";
-  src: url(assets/css/fonts/CrimsonPro-Regular.ttf);
+  src: url(fonts/CrimsonPro-Regular.ttf);
 }
 @font-face {
   font-family: "CrimsonPro-Bold";
-  src: url(assets/css/fonts/CrimsonPro-Bold.ttf);
+  src: url(fonts/CrimsonPro-Bold.ttf);
 }
 @font-face {
   font-family: "TomatoKetchup-Regular";
-  src: url(assets/css/fonts/TomatoKetchup.otf);
+  src: url(fonts/TomatoKetchup.otf);
 }
 @font-face {
   font-family: "TomatoKetchup-Bold";
-  src: url(assets/css/fonts/TomatoKetchup_Bold.otf);
+  src: url(fonts/TomatoKetchup_Bold.otf);
 }
 
 :root {
