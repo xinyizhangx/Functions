@@ -83,7 +83,7 @@ header {
   display: flex;
   justify-content: flex-end;
   width: 100%;
-  height: calc(var(--space-10) * 55);
+  height: calc(var(--space-10) * 73);
   position: relative;
   background: url(img/header.png) center center/100% 100% no-repeat;
 }
@@ -200,19 +200,4 @@ footer {
 footer p {
   color: var(--color-white);
   font-size: calc(var(--font-size-20) * 1.2);
-}
-.explore {
-  all: unset;
-  display: block;
-  font-family: "TomatoKetchup-Regular";
-  font-size: calc(var(--font-size-20) * 2);
-  width: calc(var(--space-10) * 25);
-  height: calc(var(--space-10) * 6);
-  background-color: var(--color-red);
-  color: var(--color-white);
-  border-radius: calc(var(--space-10) * 3.8);
-  text-align: center;
-  line-height: calc(var(--space-10) * 6);
-  margin: calc(var(--space-10) * 40) auto 0 auto;
-  cursor: pointer;
 }
