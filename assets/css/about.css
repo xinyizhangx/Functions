@@ -413,7 +413,58 @@ footer p {
   }
   .story img {
     width: 25%;
-    margin-top: calc(var(--space-10) * 10);
+    margin-top: calc(var(--space-10) * 8);
+  }
+  .story .story-left button {
+    margin-bottom: calc(var(--space-10) * 8);
+    font-size: calc(var(--font-size-20) * 2);
+    width: calc(var(--space-10) * 20);
+    border-radius: var(--space-10);
+    padding: var(--space-10) calc(var(--space-10) * 2);
+  }
+  footer {
+    margin-top: calc(var(--space-10) * 13);
+  }
+  footer p {
+    font-size: calc(var(--font-size-20) * 1.5);
+  }
+}
+@media screen and (min-width: 1728px) {
+  .info {
+    display: flex;
+    justify-content: space-between;
+  }
+  main .title {
+    position: absolute;
+    top: calc(var(--space-10) * 3);
+    left: calc(var(--space-10) * 3);
+    width: calc(var(--space-10) * 19);
+    height: calc(var(--space-10) * 19);
+    font-size: calc(var(--font-size-20) * 1.5);
+    flex-direction: column;
+    border-radius: 50%;
+    background-color: var(--color-red);
+  }
+  main .title img {
+    position: absolute;
+    width: 100%;
+    left: calc(var(--space-10) * 13);
+    top: calc(var(--space-10) * 3);
+  }
+  .story span {
+    font-size: calc(var(--font-size-20) * 1.8);
+    align-self: center;
+  }
+  .story {
+    align-items: flex-start;
+  }
+  .story .story-left {
+    flex: initial;
+    width: 60%;
+  }
+  .story img {
+    width: 25%;
+    margin-top: calc(var(--space-10) * 8);
   }
   .story .story-left button {
     margin-bottom: calc(var(--space-10) * 8);
