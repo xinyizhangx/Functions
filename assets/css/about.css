@@ -301,7 +301,7 @@ footer p {
     font-size: calc(var(--font-size-16));
   }
   footer {
-    margin-top: calc(var(--space-10) * 10);
+    margin-top: calc(var(--space-10) * 9);
   }
 }
 @media screen and (min-width: 834px) and (max-width: 1280px) {
@@ -401,7 +401,7 @@ footer p {
     top: calc(var(--space-10) * 3);
   }
   .story span {
-    font-size: calc(var(--font-size-20) * 2);
+    font-size: calc(var(--font-size-20) * 1.8);
     align-self: center;
   }
   .story {
