@@ -18,11 +18,14 @@ window.addEventListener("DOMContentLoaded", () => {
       boxs.insertAdjacentHTML("beforeend", renderItem);
     });
     let items = document.querySelectorAll(".data .item");
+    let selection = document.querySelector("#selection");
     items.forEach((item) => {
       item.onclick = (event) => {
         console.log(event.target.getAttribute("data-attr"));
         let query = event.target.getAttribute("data-attr");
-        window.open("selection.html?" + query, "_blank");
+        // window.open("selection.html?" + query, "_blank");
+        selection.src = "./selection.html?" + query;
+        selection.style.display = "block";
       };
     });
   };

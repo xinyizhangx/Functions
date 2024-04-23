@@ -11,14 +11,6 @@ body {
   src: url(fonts/Misto.ttf);
 }
 @font-face {
-  font-family: "CrimsonPro-Regular";
-  src: url(fonts/CrimsonPro-Regular.ttf);
-}
-@font-face {
-  font-family: "CrimsonPro-Bold";
-  src: url(fonts/CrimsonPro-Bold.ttf);
-}
-@font-face {
   font-family: "TomatoKetchup-Regular";
   src: url(fonts/TomatoKetchup.otf);
 }
@@ -214,13 +206,21 @@ footer p {
   right: calc(var(--space-10) * 3);
   cursor: pointer;
 }
-
+#selection {
+  width: 100%;
+  height: 100%;
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: var(--color-white);
+}
 @media screen and (min-width: 1520px) and (max-width: 1728px) {
   header {
     height: calc(var(--space-10) * 55);
   }
 }
-@media screen and (min-width: 375px) and (max-width: 430px) {
+@media screen and (min-width: 375px) and (max-width: 830px) {
   :root {
     --space-10: 5px;
   }
@@ -252,7 +252,8 @@ footer p {
   .content {
     margin: 0;
     padding: 0 calc(var(--space-10) * 10);
-    background: none;
+    background: url(img/mobileside.png) top right repeat-y;
+    background-position: 95% 0;
   }
   .buttons {
     justify-content: space-between;
@@ -271,5 +272,44 @@ footer p {
   }
   footer p {
     font-size: calc(var(--font-size-16));
+  }
+}
+@media screen and (min-width: 834px) and (max-width: 1280px) {
+  header {
+    height: calc(var(--space-10) * 40);
+  }
+  main .title {
+    font-size: calc(var(--font-size-18) * 1.6);
+  }
+  main .title img {
+    width: 80%;
+    left: calc(var(--space-10) * 16);
+    top: calc(var(--space-10) * 6);
+  }
+  header .slogan {
+    right: calc(var(--space-10) * 8);
+    font-size: calc(var(--font-size-20) * 1.8);
+  }
+  .content {
+    margin: 0;
+    padding: 0 calc(var(--space-10) * 5);
+    background: none;
+  }
+  .buttons {
+    justify-content: space-between;
+  }
+  .data .item {
+    width: calc(var(--space-10) * 25);
+    height: calc(var(--space-10) * 40);
+    justify-content: flex-start;
+  }
+}
+@media screen and (min-width: 1700px) {
+  header {
+    height: calc(var(--space-10) * 55);
+  }
+  .data .item {
+    width: calc(var(--space-10) * 35);
+    height: calc(var(--space-10) * 35);
   }
 }
