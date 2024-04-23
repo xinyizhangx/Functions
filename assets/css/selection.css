@@ -8,16 +8,20 @@ body {
   src: url(fonts/Misto.ttf);
 }
 @font-face {
+  font-family: "CrimsonPro-Regular";
+  src: url(fonts/CrimsonPro-Regular.ttf);
+}
+@font-face {
+  font-family: "CrimsonPro-Bold";
+  src: url(fonts/CrimsonPro-Bold.ttf);
+}
+@font-face {
   font-family: "TomatoKetchup-Regular";
   src: url(fonts/TomatoKetchup.otf);
 }
 @font-face {
   font-family: "TomatoKetchup-Bold";
   src: url(fonts/TomatoKetchup_Bold.otf);
-}
-
-body {
-  background: url(img/halfbg.png) top center/100% 37% no-repeat;
 }
 
 :root {
@@ -258,19 +262,19 @@ footer p {
     font-size: calc(var(--font-size-16));
   }
 }
-@media screen and (min-width: 430px) and (max-width: 830px) {
+@media screen and (min-width: 430px) and (max-width: 630px) {
   :root {
     --space-10: 5px;
   }
   header {
-    height: calc(var(--space-10) * 40);
+    height: calc(var(--space-10) * 30);
   }
   main .title {
     font-size: calc(var(--font-size-12) * 1.3);
   }
   main .title img {
     width: 80%;
-    height: 40%;
+    height: 70%;
     left: calc(var(--space-10) * 14);
     top: calc(var(--space-10) * 6);
   }
@@ -328,20 +332,130 @@ footer p {
     font-size: calc(var(--font-size-16));
   }
 }
-
-@media screen and (min-width: 834px) and (max-width: 1280px) {
+@media screen and (min-width: 630px) and (max-width: 830px) {
+  :root {
+    --space-10: 5px;
+  }
+  header {
+    height: calc(var(--space-10) * 40);
+  }
+  main .title {
+    font-size: calc(var(--font-size-12) * 1.3);
+  }
+  main .title img {
+    width: 80%;
+    height: 70%;
+    left: calc(var(--space-10) * 14);
+    top: calc(var(--space-10) * 6);
+  }
+  nav {
+    flex-direction: column;
+    justify-content: flex-end;
+  }
+  nav a {
+    font-size: calc(var(--font-size-12) * 1.3);
+    height: calc(var(--space-10) * 5);
+    border-radius: calc(var(--space-10) * 5);
+    margin-bottom: calc(var(--space-10) * 2);
+  }
+  header .slogan {
+    left: calc(var(--space-10) * 4);
+    font-size: calc(var(--font-size-12) * 1.5);
+  }
+  main {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
   .info {
-    height: calc(var(--space-10) * 100);
+    flex: 1;
+  }
+  .info .container {
+    flex-direction: column;
+    align-items: center;
   }
   .info .container img {
-    height: 35%;
+    width: 80%;
+    height: 55%;
+    border-radius: calc(var(--space-10) * 2);
+  }
+  .info .container-right {
+    width: 80%;
+    margin-left: 0;
+    padding: calc(var(--space-10));
+  }
+  .container-right .name {
+    justify-content: space-between;
+    margin-top: calc(var(--space-10) * 2);
+  }
+  .container-right .name span {
+    font-size: calc(var(--font-size-12));
+  }
+  .container-right p span:last-child {
+    font-size: calc(var(--font-size-12));
+  }
+  .container-right .name span:first-child {
+    margin-right: 0;
+  }
+  .container-right .span-subtitle {
+    font-size: calc(var(--font-size-20));
+  }
+  .flex p {
+    font-size: calc(var(--font-size-16));
+  }
+}
+@media screen and (min-width: 831px) and (max-width: 1280px) {
+  main {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  .info {
+    height: initial;
+    flex: 1;
+  }
+  .info .container img {
+    width: 40%;
+    height: 37%;
+  }
+  .flex {
+    margin-top: 0;
+  }
+  .container-right .name span {
+    font-size: calc(var(--font-size-16));
+  }
+  .container-right .name span:first-child {
+    width: calc(var(--space-10) * 15);
+    text-align: center;
+  }
+}
+@media screen and (min-width: 1280px) and (max-width: 1520px) {
+  .info {
+    height: calc(var(--space-10) * 70);
+  }
+  .info .container img {
+    height: 55%;
   }
   .flex {
     margin-top: 0;
   }
 }
-@media screen and (min-width: 1700px) {
+@media screen and (min-width: 1520px) and (max-width: 1728px) {
+  .info {
+    height: calc(var(--space-10) * 70);
+  }
+  .info .container img {
+    height: 55%;
+  }
+  .flex {
+    margin-top: 0;
+  }
+}
+@media screen and (min-width: 1728px) {
   .info {
     height: calc(var(--space-10) * 60);
+  }
+  .flex {
+    margin-top: calc(var(--space-10) * 2);
   }
 }
