@@ -16,21 +16,27 @@ window.addEventListener("DOMContentLoaded", () => {
           </p>
           <p class="recipe">
             <span class="span-subtitle">· Recipe</span>
-            <span class="span-p">${result.Recipe}</span>
+            <span class="span-p">${result.Recipe.replaceAll(".", ". ")
+              .replaceAll(":", ": ")
+              .replaceAll(";", ";\n")}</span>
           </p>
           <p class="steps">
             <span class="span-subtitle">· Steps</span>
-            <span class="span-p">${result.Steps}</span>
+            <span class="span-p">${result.Steps.replaceAll(".", ". ")
+              .replaceAll(":", ": ")
+              .replace(/([2-9])\./g, "\n$1. ")}</span>
           </p>
         </div>
       </div>
     `;
     boxs.insertAdjacentHTML("beforeend", string);
   };
-  const backToPrevious = document.querySelector(".back-button");
-  backToPrevious.onclick = () => {
-    location.href = "index.html";
+  let selection = window.parent.document.querySelector("#selection");
+  let backBtn = document.querySelector(".back-button");
+  backBtn.onclick = () => {
+    selection.style.display = "none";
   };
+
   fetch("assets/YumYue.json")
     .then((res) => res.json())
     .then((res) => {
