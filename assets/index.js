@@ -17,7 +17,16 @@ window.addEventListener("DOMContentLoaded", () => {
                       `;
       boxs.insertAdjacentHTML("beforeend", renderItem);
     });
+    let items = document.querySelectorAll(".data .item");
+    items.forEach((item) => {
+      item.onclick = (event) => {
+        console.log(event.target.getAttribute("data-attr"));
+        let query = event.target.getAttribute("data-attr");
+        window.open("selection.html?" + query, "_blank");
+      };
+    });
   };
+
   const selects = document.querySelectorAll(".buttons select");
   selects[0].onchange = (event) => {
     selects[1].value = "Meals";
@@ -75,6 +84,23 @@ window.addEventListener("DOMContentLoaded", () => {
     }
     renderItem(data);
   };
+
+  const backToTopBtn = document.querySelector(".back-button");
+  backToTopBtn.style.display = "none";
+  window.addEventListener("scroll", () => {
+    if (window.scrollY > 300 || document.documentElement.scrollTop > 300) {
+      backToTopBtn.style.display = "block";
+    } else {
+      backToTopBtn.style.display = "none";
+    }
+  });
+  backToTopBtn.addEventListener("click", (e) => {
+    e.preventDefault();
+    window.scrollTo({
+      top: 0,
+      behavior: "smooth",
+    });
+  });
   fetch("assets/YumYue.json")
     .then((res) => res.json())
     .then((res) => {

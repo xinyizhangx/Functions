@@ -27,7 +27,10 @@ window.addEventListener("DOMContentLoaded", () => {
     `;
     boxs.insertAdjacentHTML("beforeend", string);
   };
-
+  const backToPrevious = document.querySelector(".back-button");
+  backToPrevious.onclick = () => {
+    location.href = "/index.html";
+  };
   fetch("assets/YumYue.json")
     .then((res) => res.json())
     .then((res) => {
