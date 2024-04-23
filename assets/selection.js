@@ -29,7 +29,7 @@ window.addEventListener("DOMContentLoaded", () => {
   };
   const backToPrevious = document.querySelector(".back-button");
   backToPrevious.onclick = () => {
-    location.href = "/index.html";
+    location.href = "index.html";
   };
   fetch("assets/YumYue.json")
     .then((res) => res.json())
