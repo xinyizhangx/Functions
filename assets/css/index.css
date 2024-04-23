@@ -117,7 +117,7 @@ nav a:hover {
   text-decoration: underline;
 }
 .content {
-  background: url(/assets/css/img/side.png) top right repeat-y;
+  background: url(img/side.png) top right repeat-y;
   margin: 0 calc(var(--space-10) * 10);
 }
 .buttons {
