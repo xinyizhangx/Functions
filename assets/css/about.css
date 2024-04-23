@@ -233,7 +233,6 @@ footer p {
     height: calc(var(--space-10) * 6);
     align-items: flex-end;
     background: url(img/footer.png) center / 100% 100% no-repeat;
-    margin-top: calc(var(--space-10) * 49);
     justify-content: space-between !important;
   }
 }
@@ -302,7 +301,7 @@ footer p {
     font-size: calc(var(--font-size-16));
   }
   footer {
-    margin-top: calc(var(--space-10) * 30);
+    margin-top: calc(var(--space-10) * 10);
   }
 }
 @media screen and (min-width: 834px) and (max-width: 1280px) {
