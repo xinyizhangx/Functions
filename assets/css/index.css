@@ -268,7 +268,7 @@ footer p {
   }
   .data .item {
     width: calc(var(--space-10) * 25);
-    height: calc(var(--space-10) * 40);
+    height: calc(var(--space-10) * 30);
     justify-content: flex-start;
   }
   .buttons select {
@@ -380,7 +380,7 @@ footer p {
     text-align: center;
   }
   .data .item {
-    width: calc(var(--space-10) * 25);
+    width: calc(var(--space-10) * 35);
     height: calc(var(--space-10) * 40);
     justify-content: flex-start;
   }
