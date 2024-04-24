@@ -473,6 +473,7 @@ footer p {
   header {
     height: calc(var(--space-10) * 60);
   }
+
   main .title {
     font-size: calc(var(--font-size-18) * 2.7);
     width: calc(var(--space-10) * 32);
@@ -491,6 +492,9 @@ footer p {
     margin: 0;
     padding: 0 calc(var(--space-10) * 5);
     background: url(img/side.png) top right repeat-y;
+  }
+  .info .container img {
+    height: 55%;
   }
   .buttons select {
     width: calc(var(--space-10) * 30);
@@ -522,6 +526,9 @@ footer p {
     width: 90%;
     left: calc(var(--space-10) * 20);
     top: calc(var(--space-10) * 7);
+  }
+  .info .container img {
+    height: 60%;
   }
   nav {
     padding-top: calc(var(--space-10) * 5);
