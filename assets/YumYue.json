@@ -41,7 +41,7 @@
         "Meals": "Lunch & Dinner",
         "Festival": null,
         "Images": "https://i0.wp.com/www.wokandkin.com/wp-content/uploads/2021/06/Chinese-Brocolli-with-Oyster-Sauce-Close-Up-saved-for-web-1200px.png?w=1200&ssl=1",
-        "Recipe": "(Main Ingredients) 1 lb stem lettuce (菜心), 4 cloves garlic, 2 tbsp oyster sauce, 1 tsp soy sauce, 1 tsp sugar, 2 tbsp water, 1 tbsp vegetable oil; (Prep) Mince garlic, wash and trim stem lettuce; (Cooking) Blanch stem lettuce in boiling water, heat oil and sauté garlic until fragrant, add oyster sauce, soy sauce, sugar, and water, pour sauce over stem lettuce and serve.",
+        "Recipe": "(Main Ingredients) 1 lb stem lettuce, 4 cloves garlic, 2 tbsp oyster sauce, 1 tsp soy sauce, 1 tsp sugar, 2 tbsp water, 1 tbsp vegetable oil; (Prep) Mince garlic, wash and trim stem lettuce; (Cooking) Blanch stem lettuce in boiling water, heat oil and sauté garlic until fragrant, add oyster sauce, soy sauce, sugar, and water, pour sauce over stem lettuce and serve.",
         "Steps": "1.Mince garlic and wash and trim stem lettuce. 2. Blanch stem lettuce in boiling water. 3. Heat oil and sauté garlic until fragrant. 4. Add oyster sauce, soy sauce, sugar, and water to the sautéed garlic. 5. Pour sauce over stem lettuce and serve."
     },
     {
@@ -329,7 +329,7 @@
         "Meals": null,
         "Festival": "Mid-Autumn",
         "Images": "https://hips.hearstapps.com/hmg-prod/images/fwefewf-1651638557.jpg?crop=0.495xw:0.990xh;0,0&resize=640:*",
-        "Recipe": "(Main Ingredients) Pork spare ribs, fermented black beans, garlic, ginger, soy sauce, sugar, Shaoxing wine, vegetable oil, salt, pepper; (Prep) Rinse spare ribs, mince garlic and ginger, rinse fermented black beans; (Cooking) Marinate spare ribs with minced garlic, ginger, soy sauce, sugar, Shaoxing wine, and vegetable oil. Stir-fry fermented black beans until fragrant, then mix with spare ribs. Steam the spare ribs until cooked through. Adjust seasoning with salt and pepper before serving.",
+        "Recipe": "(Main Ingredients) Pork spare ribs, fermented black beans, garlic, ginger, soy sauce, sugar, Shaoxing wine, vegetable oil, salt, pepper;(Prep) Rinse ribs, mince garlic, ginger, and black beans; (Cooking) Marinate ribs in garlic, ginger, soy sauce, sugar, wine, oil. Stir-fry black beans, mix with ribs, steam until done. Season with salt, pepper.",
         "Steps": "1.Rinse bamboo leaves; soak in hot water. 2. Wash glutinous rice; soak 30 min-1 hr. 3. Cut pork; marinate 20-30 min. 4. Flatten leaves; add rice, pork; wrap; tie. 5. Boil zongzi in water until cooked, 1.5-2 hrs. 6. Cool before serving."
     },
     {
@@ -347,8 +347,8 @@
         "Meals": null,
         "Festival": "Qingming",
         "Images": "https://p1-tt.byteimg.com/origin/tos-cn-i-qvj2lq49k0/0b223b5e58cc4cd49d0942112549710f.jpg",
-        "Recipe": "(Main Ingredients) Glutinous rice, water, salt; optional: peanuts, sesame seeds, red bean paste; (Preparation): Soak glutinous rice overnight; drain. Roast peanuts and toast sesame seeds if using; (Cooking) Spread rice on a cloth in a steamer, steam for 30-40 minutes until sticky. Insert fillings into rice portions if used, shape into balls or patties with wet, salted hands; (Serving): Serve warm or let cool for a firmer texture.",
-        "Steps": "1.Prepare the rice by rinsing glutinous rice and soaking it for 3-4 hours or overnight.2.For the filling, roast peanuts or sesame seeds, and have red bean paste ready if using.3.Cook the rice by draining, spreading it on a cloth over a steamer, and steaming for 30-40 minutes until sticky.4.Shape the dumplings by placing filling in the center of a rice portion, wetting hands with salted water, and molding the rice around the filling into balls or patties.5.Finish by shaping all the rice into dumplings, filled or plain.6.Serve warm or cooled, and store if needed."
+        "Recipe": "(Main Ingredients) Glutinous rice, water, salt; optional: peanuts, sesame, red bean paste;(Preparation) Soak rice overnight; drain. Roast peanuts, toast sesame;(Cooking) Spread rice on cloth in steamer, steam 30-40 mins. Add fillings, shape into balls or patties; (Serving) Serve warm or cool for firmer texture.",
+        "Steps": "1.Prepare Rice: Rinse and soak glutinous rice for 3-4 hours or overnight.2.Prepare Filling: Roast peanuts or sesame seeds; ready red bean paste if using.3.Cook Rice: Drain, spread on a cloth in a steamer, and steam 30-40 minutes until sticky.4.Shape Dumplings: Place filling in rice, wet salted hands, mold into balls or patties.5.Serve: Enjoy warm or cooled; store as needed."
     },
     {
         "NameC": "八宝粥",
@@ -356,16 +356,7 @@
         "Meals": "Breakfast",
         "Festival": "Winter Solstice",
         "Images": "https://www.chopsticktherapy.com/wp-content/uploads/2021/03/eight-treasure-porridge-999px.jpg",
-        "Recipe": "(Main Ingredients): 1 cup glutinous rice, 5 cups water, pinch of salt.(Optional Fillings): Peanuts, sesame seeds, red bean paste, lotus seeds, dried dates, goji berries, raisins, almonds.(Prep):Soak rice overnight,drain,Roast nuts and soak dried fruits.(Cooking): Boil water, add rice and salt, simmer. Add fillings, cook on low for 1-1.5 hours until thick.(Serve): Warm, as a festive porridge for celebrations.",
-        "Steps": "1.Prepare Rice: Rinse 1 cup glutinous rice, soak in 5 cups water for 3-4 hours or overnight; 2. Prepare Fillings: Roast 1/4 cup peanuts, toast 1/4 cup sesame seeds; have red bean paste ready if using; 3. Cook Rice: Drain, spread on cloth over steamer, steam for 30-40 minutes until sticky; 4.Mix Porridge: Transfer rice to pot, add water and fillings, simmer on low heat, stirring, until thick (about 1 hour); 5. Finish Porridge: Continue cooking until ingredients blend into a thick porridge."
-    },
-    {
-        "NameC": null,
-        "NameE": null,
-        "Meals": null,
-        "Festival": null,
-        "Images": null,
-        "Recipe": null,
-        "Steps": "Serve or Store; 6. Serve warm, garnish with nuts/seeds, store leftovers in refrigerator."
+        "Recipe": "(Main Ingredients) 1 cup glutinous rice, 5 cups water, salt;(Optional Fillings)Peanuts, sesame seeds, red bean paste, lotus seeds, dried dates, goji berries, raisins, almonds;(Prep)Soak rice overnight, drain, roast nuts, soak dried fruits;(Cooking)Boil water, add rice and salt, simmer. Include fillings, cook low 1-1.5 hours until thick;(Serve)Warm as festive porridge.",
+        "Steps": "1.Prepare Rice: Rinse 1 cup glutinous rice, soak in 5 cups water overnight.2.Prepare Fillings: Roast 1/4 cup peanuts, toast 1/4 cup sesame seeds; ready red bean paste if using.3.Cook Rice: Drain, spread on cloth, steam 30-40 minutes until sticky.4.Make Porridge: Transfer rice to pot, add water and fillings, simmer until thick (about 1 hour)."
     }
 ]
