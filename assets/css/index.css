@@ -263,6 +263,7 @@ footer p {
   }
   .data .item span {
     font-size: calc(var(--font-size-20) / 2) !important;
+    text-align: center;
   }
   .data .item {
     width: calc(var(--space-10) * 25);
